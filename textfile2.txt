@@ -1,1 +1,21 @@
-Hej textfil2
+commit bba9721c082164433036e4e303220d420824a16a (HEAD -> main, origin/main, origin/feature1, feature1)
+Author: Samir-79 <samirovsky79@gmail.com>
+Date:   Fri Oct 30 10:51:23 2020 +0100
+
+     en till textfil
+
+commit 7ee54a01a57a49b4eef0ea696d8862f923c319cf (feature)
+Author: Samir-79 <samirovsky79@gmail.com>
+Date:   Fri Oct 30 10:42:19 2020 +0100
+
+    Skapat en READ-fil
+
+commit 5aebc5a492cdaf56262d47f1c0366b294f2c6028
+Author: Samir-79 <samirovsky79@gmail.com>
+Date:   Fri Oct 30 10:15:56 2020 +0100
+
+    Skapat en gitignorefil
+
+commit 7d0a3d44693aac7bdcd82639cd1ee961fee6a976
+Author: Samir-79 <samirovsky79@gmail.com>
+Date:   Fri Oct 30 09:33:09 2020 +0100
